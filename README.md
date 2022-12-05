@@ -62,4 +62,7 @@ while not_ended:
 ```
 
 # The Result
+![The Cipher](./images/Cipher.png)
 
+# AUTHOR
+Alberta Cofie
